@@ -1,1 +1,2 @@
-print("Hello, GitHub!")
+a = input(text("Enter a string:"))
+print(a.lower())
