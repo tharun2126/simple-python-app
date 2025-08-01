@@ -1,2 +1,2 @@
-a = input(text("Enter a string:"))
+a = input("Enter a string:")
 print(a.lower())
